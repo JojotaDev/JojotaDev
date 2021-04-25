@@ -1,7 +1,7 @@
 - 👋    Hi, I’m @JojotaDev. (was that a Jojo reference?)
 - 🧙🏻‍♂️  I'm a level 25 wizard. My friends calls me Jota.
 - 💑    I am a family man who loves to spend time with my partner and that ball of fur I see as my own daughter. 🐈
-- 💙    My perfect time of the day is at nigth, when I'm coding while having a coffee and listening to my spotify playlist. 🌙 👨🏻‍💻☕🎧
+- 💙    My favorite part of the day is at nigth, when I'm coding while having a coffee and listening to my spotify playlist. 🌙 👨🏻‍💻☕🎧
 - 🤹🏻‍♂️  I used to practice juggling while I was on the circus club at college.
 - 🌟    I'm interested in sharpening my developer skills by studying and practicing new technologies and tools. Then I like to apply them to my personal projects.
 - 🌱    I’m currently learning Django and Docker.
